@@ -1,0 +1,34 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# SQLite database temporary files
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Rider
+.idea/
+
+# Environment files
+.env
+
+# Publish folder
+publish/
+
+# Node modules
+node_modules/
